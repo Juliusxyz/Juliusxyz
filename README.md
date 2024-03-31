@@ -1,7 +1,11 @@
+<div align="center">
+  <img height="150" src="https://cdn.discordapp.com/attachments/1141668937436758057/1222259138172813362/image.png?ex=66159087&is=66031b87&hm=1377b706e830cb3a4f4191d4dceea49ef81804092bcdab4e8e3da0ec0d9edd49&"  />
+</div>
+
 ###
 
 <div align="center">
-  <a href="https://discord.gg/tbJ7nzhT" target="_blank">
+  <a href="discord.gg/tbJ7nzhT" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="mailto:julius@nebularnodes.com" target="_blank">
